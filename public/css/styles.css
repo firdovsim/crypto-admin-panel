@@ -1,0 +1,8 @@
+.orders-tabs .nav-item, .nav-tabs .slide {
+    width: calc(100% / 8);
+}
+
+.row-active {
+    background-color: #c3f5c3 !important;
+}
+

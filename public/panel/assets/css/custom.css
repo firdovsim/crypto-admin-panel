@@ -1,0 +1,7 @@
+@media only screen and (max-width: 573px) {
+    .md-tabs {
+        display: flex !important;
+        justify-content: space-around !important;
+        align-items: center !important;
+    }
+}
